@@ -1,0 +1,5 @@
+<button onclick="setWeather('rain')">Lluvia</button>
+<button onclick="setWeather('heladas')">Heladas</button>
+<button onclick="setWeather('anticiclon')">Anticiclón</button>
+<button onclick="setWeather('niebla')">Niebla</button>
+<button onclick="setWeather('storm')">Tormenta de Truenos</button>
